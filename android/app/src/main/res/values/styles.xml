@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+
+    </style>
+
+     <style name="AppTheme.Light" parent="AppTheme">
+        <item name="android:navigationBarColor">@color/navigationBarColorLight</item>
+    </style>
+
+    <!-- Dark theme colors -->
+    <style name="AppTheme.Dark" parent="AppTheme">
+        <item name="android:navigationBarColor">@color/navigationBarColorDark</item>
+    </style>
+
+    <!-- Define your colors here -->
+    <color name="navigationBarColorLight">#FFFFFF</color> <!-- Light theme navigation bar color -->
+    <color name="navigationBarColorDark">#000000</color> 
+
+</resources>
