@@ -53,17 +53,17 @@ Please make sure to update tests as appropriate.
 
 <p float="left">
    <img src="/app/assets/screenshoot/ob1_w.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/ob2_w.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/ob3_w.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/ob2_w.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/ob3_w.jpeg" alt="drawing" width="200"/>
 </p>
 
 ## Singin/Signup  
 
 <p float="left">
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/su_h_b.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/su_b.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/si_b.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/add_profile_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/su_h_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/su_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/si_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/add_profile_b.jpeg" alt="drawing" width="200"/>
    <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/add_photo_b.jpeg" alt="drawing" width="200"/>
 
    
