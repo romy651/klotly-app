@@ -64,65 +64,65 @@ Please make sure to update tests as appropriate.
    <img src="/app/assets/screenshoot/su_b.jpeg" alt="drawing" width="200"/>
    <img src="/app/assets/screenshoot/si_b.jpeg" alt="drawing" width="200"/>
    <img src="/app/assets/screenshoot/add_profile_b.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/add_photo_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/add_photo_b.jpeg" alt="drawing" width="200"/>
 
    
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/su_w.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/add_profile_w.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/add_photo_w.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/su_w.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/add_profile_w.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/add_photo_w.jpeg" alt="drawing" width="200"/>
 </p>
 
 ## Home page
 
 <p float="left">
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/search_b.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/tutor_profile_b.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/sort_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/search_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/tutor_profile_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/sort_b.jpeg" alt="drawing" width="200"/>
    
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/filter_b.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/favorite_b.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/category_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/filter_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/favorite_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/category_b.jpeg" alt="drawing" width="200"/>
    
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/s_category_w.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/s_category_w.jpeg" alt="drawing" width="200"/>
 </p>
 
 ## Make booking
 
 <p float="left">
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/schedule_b.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/send_gift.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/confirm_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/schedule_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/send_gift.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/confirm_b.jpeg" alt="drawing" width="200"/>
    
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/pay_b.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/booking_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/pay_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/booking_b.jpeg" alt="drawing" width="200"/>
    
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/call.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/call_chatjpeg.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/call_pip.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/call.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/call_chatjpeg.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/call_pip.jpeg" alt="drawing" width="200"/>
 
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/sc2.png" alt="drawing" width="400"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/sc3.png" alt="drawing" width="400"/>
-   <img src=https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/sc1.png alt="drawing" width="400">
+   <img src="/app/assets/screenshoot/sc2.png" alt="drawing" width="400"/>
+   <img src="/app/assets/screenshoot/sc3.png" alt="drawing" width="400"/>
+   <img src=/app/assets/screenshoot/sc1.png alt="drawing" width="400">
 </p>
 
 
 ## Social Media Integration
 
 <p float="left">
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/posts_b.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/messages_b.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/chat_w.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/c_post_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/posts_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/messages_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/chat_w.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/c_post_b.jpeg" alt="drawing" width="200"/>
 </p>
 
 ## Profile/Settings
 
 <p float="left">
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/setting_b.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/resume_w.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/edit_profile_b.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/language_b.jpeg" alt="drawing" width="200"/>
-   <img src="https://github.com/romy651/klotly/blob/android-branch/app/assets/screenshoot/add_pictures_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/setting_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/resume_w.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/edit_profile_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/language_b.jpeg" alt="drawing" width="200"/>
+   <img src="/app/assets/screenshoot/add_pictures_b.jpeg" alt="drawing" width="200"/>
 </p>
 
 
